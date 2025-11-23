@@ -20,7 +20,7 @@ The project was originally created by [cvrky](https://github.com/cvrky/vektiva_s
 1. Open HACS in Home Assistant.
 2. Go to **Integrations → Custom repositories**.
 3. Add this repository:
-https://github.com/<your-username>/homeassistant-vektiva-smarwi
+[(https://github.com/GeroComp/homeassistant-vektiva-smarwi.git)](https://github.com/GeroComp/homeassistant-vektiva-smarwi.git)
 as type **Integration**.
 4. Install the integration and restart Home Assistant.
 
