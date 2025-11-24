@@ -35,7 +35,7 @@ The easiest way to install and keep the integration updated.
 2.  Click the **3 dots menu** (top right corner) → Select **Custom repositories**.
 3.  Paste the following URL into the Repository field:
     ```text
-    [https://github.com/GeroComp/homeassistant-vektiva-smarwi](https://github.com/GeroComp/homeassistant-vektiva-smarwi)
+    https://github.com/GeroComp/homeassistant-vektiva-smarwi.git
     ```
 4.  Select category: **Integration**.
 5.  Click **Add**, then find "Vektiva Smarwi" in the list and click **Download**.
